@@ -1,0 +1,89 @@
+.App_header {
+  width: 100%;
+  padding: 10px;
+  flex-wrap: wrap;
+  background-color: #a16db9;
+  margin-bottom:9px;
+  display: flex;
+  justify-content: center;
+}
+
+.task_form_bottom_line {
+  display: flex;
+  justify-content:space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+
+.task_submit {
+  font-size: 16px;
+  font-weight: 500;
+  background-color: rgb(91, 63, 229)!important;
+  color: #c5f5ba!important;
+  border-radius: 5px;
+  height: 30px;
+  padding: 3px 15px;
+  border: none;
+  cursor: pointer;
+}
+
+.task-form-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.task_input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+.task_input::placeholder {
+  color: rgb(224, 130, 15);
+}
+
+.task_form_bottom_line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.tag-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+
+}
+
+.tag {
+  padding: 5px 10px;
+  border: 1px solid #efadad;
+  border-radius: 5px;
+  background-color: #a9c6f5;
+  cursor: pointer;
+}
+
+.action-container {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.task_status {
+  padding: 5px 10px;
+  border: 1px solid #d09b9b;
+  border-radius: 5px;
+  background-color: #9fd1d5;
+  margin-right: 10px;
+}
+
+
+
+
+

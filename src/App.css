@@ -1,0 +1,23 @@
+.app {
+    padding: 20px;
+  }
+  
+  .task-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 150px;
+    margin-top: 20px;
+  }
+  
+  .task-column {
+    flex: 1;
+    min-width: 0;
+    background-color: #88ae16;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  
+  
+  
+ 

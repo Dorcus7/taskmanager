@@ -8,7 +8,7 @@ const TaskCard = () => {
     return (
     
         <article className='task_card'>
-            <p className='task_text'>Its really amazing debugging </p>
+            <p className='task_text'>Its amazing creating this app</p>
             <div className='task_card_bottom_line'></div>
             <div className='task_card_tags'></div>
             <Tag tagName="HTML" />
